@@ -17,7 +17,7 @@ I am a software engineer focused on backend development, high-performance applic
 - ✉️ You can reach me via email at **[satyampatil1505@gmail.com](mailto:satyampatil1505@gmail.com)**.
 
 <p align="left">
-  <href="https://www.linkedin.com/in/satyam-patil1505/" target="_blank">
+  <a href="https://www.linkedin.com/in/satyam-patil1505/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </p>
 
